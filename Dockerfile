@@ -1,5 +1,5 @@
 FROM alpine
-ADD bkpmikrotik /
+ADD bkpmikrotik /bkpmikrotik
 RUN find bkpmikrotik -name "*.sh" -exec chmod +x {} \; \
     apk update && \
     apk add openssh && \
