@@ -6,4 +6,4 @@ The script connects to a each mikrotik defined in the  /bkpmikrotik/destinos/mik
 
 # TODO
 
-make a dockercompose so that we can bring up a dnsmasq container, obligatory as we use names on the mikrotik destination file.
+make a dockercompose so that we can bring up a dnsmasq container, desired as we could use names on the mikrotik destination file.
