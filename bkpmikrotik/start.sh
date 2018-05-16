@@ -1,4 +1,3 @@
-/bkpmikrotik # more start.sh
 #!/bin/sh
 
 # start cron
